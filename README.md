@@ -17,27 +17,46 @@ The application will be built by five software engineers, over the next four wee
 Member registration 
 Builder Pattern 
 
-Membership types (Free, Paid) 
+Membership types (Free, Paid) \
+
 Decorator Pattern 
 
 GUI Display 
+
 Abstract Factory Pattern 
+
 View User Information 
+
 User Dashboard (add transaction, add account, calculate expenses
-Add Income 
+
+Add Income
+
 Add Expense 
+
 Add Account 
+
 Analytics 
+
 Track income 
+
 Track expenses 
+
 Budget your expense 
+
 State Pattern
+
 Paid Members 
+
 Custom accounts
+
 Custom income categories
+
 Custom expense categories
+
 Analytics (daily, monthly and/or annual tracking) 
+
 Mediator Pattern
+
 Paid Members
 
 
@@ -45,17 +64,27 @@ Paid Members
 1.4 List of design patterns
 
 Singleton
+
 Abstract Factory
+
 Proxy 
+
 Builder 
+
 Object Pool
 
 
 1.5 Views: 
+
 Home Page
+
 Login
+
 Register
+
 Login View
+
 Register View
+
 List Account
 
