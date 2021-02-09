@@ -31,6 +31,8 @@ User Dashboard (add transaction, add account, calculate expenses
 
 Add Income
 
+Skills: Java, Spring MVC
+
 Add Expense 
 
 Add Account 
